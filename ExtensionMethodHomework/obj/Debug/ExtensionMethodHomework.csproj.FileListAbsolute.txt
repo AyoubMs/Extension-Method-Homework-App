@@ -1,0 +1,8 @@
+C:\Users\ayoub\source\repos\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\ExtensionMethodHomework.exe.config
+C:\Users\ayoub\source\repos\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\ExtensionMethodHomework.exe
+C:\Users\ayoub\source\repos\ExtensionMethodHomeworkApp\ExtensionMethodHomework\bin\Debug\ExtensionMethodHomework.pdb
+C:\Users\ayoub\source\repos\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.exe
+C:\Users\ayoub\source\repos\ExtensionMethodHomeworkApp\ExtensionMethodHomework\obj\Debug\ExtensionMethodHomework.pdb
